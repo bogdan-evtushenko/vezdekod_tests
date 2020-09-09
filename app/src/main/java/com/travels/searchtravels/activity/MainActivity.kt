@@ -224,7 +224,6 @@ class MainActivity : AppCompatActivity() {
 
                         override fun onErrorPlace(category: String) {
                             loadByCategory(category)
-
                         }
 
                         override fun onError() {

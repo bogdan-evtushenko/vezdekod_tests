@@ -20,6 +20,10 @@
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/loader_button_background.xml"
     },
     {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_sea.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/sea.jpeg"
+    },
+    {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
@@ -72,12 +76,20 @@
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/fisrt_gr.xml"
     },
     {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_eifell_tower.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/eifell_tower.jpeg"
+    },
+    {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_horizontal_gradient_2.xml.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/horizontal_gradient_2.xml"
+    },
+    {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_mountain.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/mountain.jpeg"
     },
     {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
@@ -116,6 +128,10 @@
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/mipmap-xxhdpi/mdi_format_list_bulleted.png"
     },
     {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_beach.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/beach.jpeg"
+    },
+    {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
     },
@@ -132,12 +148,20 @@
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_ocean.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/ocean.jpeg"
+    },
+    {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_selector_bottom_nav.xml.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/selector_bottom_nav.xml"
     },
     {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_shopping_cart.png.flat",
         "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/mipmap-xxhdpi/shopping_cart.png"
+    },
+    {
+        "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable_snow.jpeg.flat",
+        "source": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/src/main/res/drawable/snow.jpeg"
     },
     {
         "merged": "/Users/bogdanevtushenko/AndroidProjects/VK_Vezdecup_2020/hotfix.mobile/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",

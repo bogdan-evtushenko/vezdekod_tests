@@ -1509,6 +1509,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable beach
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1548,6 +1549,7 @@ drawable ef_ic_arrow_forward
 drawable ef_ic_camera_white
 drawable ef_ic_done_white
 drawable ef_image_placeholder
+drawable eifell_tower
 drawable fifth_bg
 drawable fisrt_gr
 drawable forth_bg
@@ -1572,6 +1574,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable loader_button_background
 drawable loader_button_shape
+drawable mountain
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1595,13 +1598,16 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable ocean
 drawable original_state
 drawable preference_list_divider_material
 drawable rounded_black
+drawable sea
 drawable second_gr
 drawable selector_bottom_nav
 drawable seventh_bg
 drawable sixth_b
+drawable snow
 drawable test_custom_background
 drawable thrid_bg
 drawable tooltip_frame_dark
